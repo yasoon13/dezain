@@ -20,3 +20,9 @@ Third phase - large scale strategic or processed based problems
 We provide better solutions through the design thinking approach  
 ## Vision
 To become the first organization of Pakistan that operates on design thinking mindset
+## Mental framework
+1. Controlled
+2. Precise
+3. Slow
+4. Certain
+5. Predictable
